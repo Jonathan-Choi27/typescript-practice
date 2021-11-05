@@ -21,6 +21,3 @@ The goal of this project is to develop a REST API using Node.js and Jest for tes
 - Install packages with `npm install`.
 - Run `npm run dev` to run the project code frontend.
 - Run `npm start` to run the project code backend.
-  
-## ✍️ Contributors
-- Jonathan Choi
